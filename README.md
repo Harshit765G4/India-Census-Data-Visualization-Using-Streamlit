@@ -65,8 +65,7 @@ streamlit run app.py
 
 ## 🤝 Contributors
 
-- **Harshit Garg** - [GitHub](https://github.com/your-profile)
-- **Harshjeet** - [GitHub](https://github.com/your-profile)
+- **Harshit Garg** - [GitHub]((https://github.com/Harshit765G4))
 
 ## 📜 License
 
