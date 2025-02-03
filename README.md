@@ -1,6 +1,5 @@
 # IndieViz - India Census Data Visualization
 
-
 ## 📌 Project Overview
 
 **IndieViz** is an interactive and scalable web-based platform designed to simplify the visualization and exploration of India's Census data. Built with **Streamlit** and **Plotly**, it enables users to dynamically explore key demographic parameters such as **population, literacy rates, sex ratio, and household internet availability** across different states and districts.
