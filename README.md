@@ -1,6 +1,5 @@
 # IndieViz - India Census Data Visualization
 
-![IndieViz Banner](https://your-image-link.com) <!-- Replace with an actual image link -->
 
 ## 📌 Project Overview
 
